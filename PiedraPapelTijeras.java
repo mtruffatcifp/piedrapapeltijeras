@@ -33,11 +33,11 @@ class PiedraPapelTijeras
         }
         else if ( (u==R && c==S) || (u==S && c==P) || (u==P && c== R) )
         {
-            System.out.println("Has ganado!");
+            System.out.println("Has Ganado!");
         }
         else
         {
-            System.out.println("Has perdido!");
+            System.out.println("Has Perdido!");
         }
     }
 }
